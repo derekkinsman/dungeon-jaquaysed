@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return <>
-    <h1>Jaquaysing [juh-kewy-zing]</h1>
+    <h1>Jaquaysing [juh-kwey-zing]</h1>
     <p>verb</p>
     <ol>
       <li>to design non-linear dungeons for fantasy games of role-play.</li>
