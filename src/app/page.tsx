@@ -13,5 +13,7 @@ export default function Page() {
     <ol>
       <li>to design non-linear dungeons for fantasy games of role-play.</li>
     </ol>
+    <p>Words that May Be Confused with Jaquaysing</p>
+    <p><a href='https://xanderingthedungeon.com/'>Xandering</a></p>
   </>
 }
